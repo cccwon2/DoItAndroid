@@ -47,6 +47,9 @@ DoItMission20 지도 위에 이동경로를 선으로 표시하기 P671
 DoItMission21 트위터 메시지를 날짜별로 표시하기 P724
 
 DoItMission22 트위터와 페이스북의 메세지를 날짜별로 표시하기 P725
+
 DoItMission23 블루투스로 사진 전송하기 P768
+
 DoItMission24 가상 주차장 위치를 NFC 태그에서 읽어 표시하기 P769
+
 DoItMission25 앱위젯으로 버튼을 만든 후 트위터와 페이스북 띄워주기 P789
