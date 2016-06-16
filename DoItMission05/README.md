@@ -12,4 +12,4 @@
 
 ### 참고할 점
 이름과 나이를 입력받기 위한 입력상자에 키 입력 유형을 설정하여 적당한 키패드를 띄우려면 inputType 속성을 이용합니다.
-날짜를 설정하려면 DatePickerDialog와 SimpleDateFormatdmㄹ 사용할 수 있습니다.
+날짜를 설정하려면 DatePickerDialog와 SimpleDateFormat을 사용할 수 있습니다.
