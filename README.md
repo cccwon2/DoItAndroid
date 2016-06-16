@@ -11,9 +11,9 @@ DoItMission03 로그인 화면과 메뉴 화면 간단히 만들기 P304
 
 DoItMission04 영업관리 앱용 화면 만들기 P305
 
-### 예정 미션
 DoItMission05 고객 정보 입력 화면의 구성 P370
 
+### 예정 미션
 DoItMission06 웹브라우저 화면 구성 P371
 
 DoItMission07 월별 캘린더에 일정 입력 및 조회 기능 추가하기 P430
